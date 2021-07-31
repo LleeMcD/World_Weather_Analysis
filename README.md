@@ -6,7 +6,7 @@ The purpose of this project was to:
 - Determine correlations 
 - Use Google API to create heatmaps
 - Create deliverables to:
-  - Retrive weather data
+  - Retrieve weather data
   - Create a customer travel destinations map
   - Create a travel itinerary map
 
